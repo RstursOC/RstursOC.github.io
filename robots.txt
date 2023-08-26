@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://example22.org/sitemap.xml
